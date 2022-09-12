@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edb803da.css",
+    "main.js": "/static/js/main.0d6d6173.js",
+    "static/js/787.5daa0449.chunk.js": "/static/js/787.5daa0449.chunk.js",
+    "static/media/background.jpg": "/static/media/background.2f50ba1521c22aca84f4.jpg",
+    "static/media/Felix-Main.png": "/static/media/Felix-Main.ee244c9bbc20b3e880a3.png",
+    "index.html": "/index.html",
+    "main.edb803da.css.map": "/static/css/main.edb803da.css.map",
+    "main.0d6d6173.js.map": "/static/js/main.0d6d6173.js.map",
+    "787.5daa0449.chunk.js.map": "/static/js/787.5daa0449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb803da.css",
+    "static/js/main.0d6d6173.js"
+  ]
+}

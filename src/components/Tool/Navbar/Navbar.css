@@ -1,0 +1,50 @@
+.NavbarItems {
+    align-items: center;
+    background-color: black;
+    display: flex;
+    height: 70px;
+    min-width: 90%;
+    padding: 14px 57px;
+  }
+
+.Ribeye-Marrow-36px{
+    color: white;
+    font-size: 36px;
+    font-family: 'Ribeye Marrow', cursive;
+    letter-spacing: 0;
+    min-height: 49px;
+}
+
+.nav-menu{
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
+    color: white;
+    font-size: 32px;
+    font-family: 'Ribeye Marrow', cursive;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: white;
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
+a:active {
+    color: white;
+    text-decoration: none;
+  }
